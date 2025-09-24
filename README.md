@@ -1,6 +1,5 @@
 
 
-```markdown
 # ToDo List Projects 
 
 This repository contains **five versions** of a ToDo List app built with **React**.  
@@ -11,7 +10,6 @@ Each folder represents a different implementation with unique features and setup
 ##  Project Structure
 
 ```
-
 root/
 │
 ├─ my-todolist-firebaceapp/           # React + Firebase
